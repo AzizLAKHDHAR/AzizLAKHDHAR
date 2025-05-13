@@ -10,6 +10,16 @@ Outside of tech, I’m passionate about **music** and **astronomy**. Whether it'
 
 ---
 
+## 🎯 Goals
+
+- 🚀 Deepen my understanding of **computer networking**
+- 🌐 Learn the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- ☁️ Obtain the **AWS Cloud Practitioner** certification
+- 🔷 Pass the **Microsoft Azure Fundamentals (AZ-900)** exam
+- 🎹 Develop and release **VST3 audio plugins**
+- 📶 Build meaningful **IoT projects** for music applications
+
+---
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedaziz.lakhdar)
@@ -64,12 +74,5 @@ Outside of tech, I’m passionate about **music** and **astronomy**. Whether it'
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AzizLAKHDHAR&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AzizLAKHDHAR&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizLAKHDHAR&theme=shadow_green&hide_border=false&layout=compact)
-
----
 
 
