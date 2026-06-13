@@ -11,10 +11,12 @@ Outside of tech, I’m passionate about **music** and **astronomy**.
 
 ## 🎯 Goals
 
-- 🚀 Deepen my understanding of **computer networking**
-- 🌐 Learn the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
-- ☁️ Obtain the **AWS Cloud Practitioner** certification
-- 🔷 Pass the **Microsoft Azure Fundamentals (AZ-900)** exam
+- 🌐 Strengthen my knowledge of **advanced networking**, routing, switching, and network security
+- ☁️ Build hands-on experience with **AWS**, **Microsoft Azure**, and cloud-native technologies
+- 🔧 Learn and apply **DevOps practices**, including CI/CD, IaC, and automation
+- 🐳 Gain practical experience with **Docker**, **Kubernetes**, and container orchestration
+- 🔒 Develop skills in **cloud security**, system hardening, and security best practices
+- 📜 Earn industry certifications such as **AWS Cloud Practitioner**, **Azure Fundamentals (AZ-900)**, and networking/security certifications
 
 ---
 ## 🌐 Socials
